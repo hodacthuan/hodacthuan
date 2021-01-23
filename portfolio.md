@@ -10,15 +10,14 @@ A large-scale API system for scanning, building the #1 cloud cybersecurity platf
 
 
 TECHNOLOGIES:
-- Nodejs[KoaJS Framework], ,  AWS[EC2, S3, SQS,...] Kafka, Kibana, , Lamda, ElasticSearch,...
-- Microservices: Lerna, GRPC, Express HTTP Proxy,  
-- Database: MongoDB, PostGreSLQ, RedisDB  
+- Nodejs[KoaJS Framework], AWS[EC2, S3, SQS, Lamda...] Kafka, Kibana, ElasticSearch,...
+- Microservices: Lerna, GRPC, Express HTTP Proxy, ... 
+- Database: MongoDB, PostGreSLQ, RedisDB,...
 - Tesing: Jasmine, Locus
 - Devops: Docker, Kubenetes, Minikube, Python Script, Shell Script,...
 - Third party services: Stripe API, Jira API,...
 
 RESPONSIBILITIES:
-
 
 - Improving and maintain an 80 Restful APIs backend platform written by NodeJs, integrate with multiple 3rd party system and other services: Stripe, Metadefender Core V4, Kafka, Elastic Search, Jira, MongoDB, AWS(S3, SQS,...)  
 - Write deploying script for a microservices system, apply and implement a microservices architecture  
@@ -29,7 +28,7 @@ RESPONSIBILITIES:
 
 # STARTUP TINTECH COMPANY
 ## PROJECT: ETHEREUM BLOCKCHAIN WALLET 
-**POSITION**: FULLSTACK WEB DEVELOPER  
+**POSITION**: BACKEND DEVELOPER  
 **WEBSITE**: https://wallet.joco.asia/  
 **ANDROID**: https://play.google.com/store/apps/details?id=org.tintech.walletaum    
 
@@ -62,11 +61,12 @@ A mobile application used for those who want to manage their ETH cryptocurrency 
 A mobile application used for those who want to manage their ETH cryptocurrency in ETH wallet: send and receive ETH/Token, Perform swap between ETH and token, …
 
 <img src="./images/joco1.png" alt="drawing" width="1000"/>
+<img src="./images/joco3.png" alt="drawing" width="1000"/>
 <img src="./images/joco2.png" alt="drawing" width="1000"/>
 
-- Backend: Nodejs [Loopback 3x, SailsJs], AWS, Heroku, PostgreSQL, Linux, 
+
+- Backend: PHP[Laravel], Nodejs [Loopback 3x, SailsJs], AWS, Heroku, PostgreSQL, Linux, 
 - Frontend:  Javascript, ReactJS, Material UI
-- BlockChain platform - APIs Service: Ethereum, Infura, CoinMarketCap, CoinGecko, Ethplorer, …
 - DevOps: Docker, Docker Swarm, Linux, AWS, Jenkins, Redis, Kibana, Grafana,...
 
 **Key Responsibilities & Achievement:**   
@@ -80,6 +80,26 @@ DevOps Engineer:
 Backend Developer: 
 - Take responsibility to build from scratch, deliver and maintain a backend system to crawl data from many human resource websites 
 - Build a database model that represents the business requirement.
-Develop a job server to crawl data automatically every day to make sure you get all the new job information from many different human resource websites.
+- Develop a job server to crawl data automatically every day to make sure you get all the new job information from many different human resource websites.
 - Develop a chat backend system for a chat feature of the main mobile application.
 - Deploy and maintain an existing backend system with PHP Laravel
+
+## PROJECT: HUMAN RESOURCES CRAWLER TOOL
+**POSITION**: FULLSTACK DEVELOPER  
+**WEBSITE**: https://cvbox.asia/  
+
+<img src="./images/hr-crawl-tool.png" alt="drawing" width="1000"/>
+
+This small tool help you to crawl data( job, candidate, company) from some human resource page in VN( like Mywork, Careerbuilder, Vietnamwork,...) and then save them to MongoDB
+
+It come with a frontend small page help you to update candidate infomation so you can update each data by yourself after crawling.
+
+- Backend: Nodejs [ExpressJS], MongoDB, Linux, 
+- Frontend:  Javascript, ReactJS, Material UI…
+- DevOps: Docker, Docker Swarm, Linux, AWS, Jenkins, Redis, Kibana, Grafana,...
+
+**Key Responsibilities & Achievement:**   
+
+Backend Developer: 
+- Build from scratch a system automatically crawl data( job, candidate, company) from some human resource page in VN( like Mywork, Careerbuilder, Vietnamwork,...) and then save them to MongoDB
+
