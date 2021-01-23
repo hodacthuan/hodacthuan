@@ -114,15 +114,22 @@ We are a team of ~20 members across all Intel Factories in the world dedicated t
 - Data Visualization: AmChart, C3 Chart, HighChart, Table Sorter, PivotMaster, Table Sorter  
 
 
-<img src="./images/hr-crawl-tool.png" alt="drawing" width="1000"/>
-
 ## PROJECT: MAINTENANCE AND CONTINUOUS DEVELOPING DATA PORTAL WEBSITE
+|            |            |
+| ------------- | -------------   |
+| <img src="./images/intel/shift-report.png" alt="drawing" width="600"/>       | <img src="./images/intel/shift-report2.png" alt="drawing" width="600"/> |
+| <img src="./images/intel/shift-report3.png" alt="drawing" width="600"/>       | <img src="./images/intel/pcs-data.png" alt="drawing" width="600"/> |
 **Position:**  Fullstack Web Developer. / Team size: 5 members   
 **Key Responsibilities and Achievement:**   
 - Achieved 100% reliability and perform maintaining the data portal website to serve over 2200 employees in Intel Vietnam Factory, create 6 new features based on process engineer requirements [collect and visualize data]  
 - Develop new PHP backend application in a microservice system to the server a new function on the existing website  
 - Edit and optimize frontend Javascript core coding to add more features based on requirements, worked with Jquery, Bootstrap.  
 ## PROJECT: DATA MANAGEMENT SYSTEM AND CALCULATION WEBSITE
+|            |            |
+| ------------- | -------------   |
+| <img src="./images/intel/pivot1.png" alt="drawing" width="600"/>       | <img src="./images/intel/pivot2.png" alt="drawing" width="600"/> |
+| <img src="./images/intel/pivot3.png" alt="drawing" width="600"/>       | <img src="./images/intel/pivot4.png" alt="drawing" width="600"/> |
+
 **Position:**  Fullstack Web Developer. / Team size: 2 members  
 **Key Responsibilities and Achievement:** 
 - Build a SQL Server database model to represent the requirements of the project.
@@ -130,6 +137,9 @@ We are a team of ~20 members across all Intel Factories in the world dedicated t
 - Build from scratch and deliver a website for monitoring tool health and important indicator, show data using Javascript data visualization libraries and platform [PivotMaster, AmChart] and framework ReactJS
 - Coded python automatically gets data from a log file on 20 machines then performs analysis, then saves it to databases for visualization.
 ## PROJECT: DATA VISUALIZATION WEB APPLICATION
+|            |            |
+| ------------- | -------------   |
+| <img src="./images/intel/epoxy.png" alt="drawing" width="600"/>       | <img src="./images/intel/wirebond.png" alt="drawing" width="600"/> |
 **Position:**  Fullstack Web Developer. / Team size: only me.  
 **Key Responsibilities and Achievement:**
 - Build from scratch a PHP backend system to serve multiple data visualization web application  
