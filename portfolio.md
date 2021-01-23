@@ -26,7 +26,7 @@ RESPONSIBILITIES:
 - Implementing load testing using Locust.io  
 - Improve and maintain a complex worker written by NodeJs  
 
-# STARTUP TINTECH COMPANY
+# STARTUP TINTECH COMPANY [1/2019 - 12/2019]  
 ## PROJECT: ETHEREUM BLOCKCHAIN WALLET 
 **POSITION**: BACKEND DEVELOPER  
 **WEBSITE**: https://wallet.joco.asia/  
@@ -53,7 +53,7 @@ A mobile application used for those who want to manage their ETH cryptocurrency 
 - Work closely with the front-end mobile team to develop a system push notification using Firebase Cloud Message.
 - Design and deploy the whole project on AWS Cloud and company local server.
 
-## PROJECT: JOB CONNECTION SOCIAL NETWORK [1/2019 - 12/2019]
+## PROJECT: JOB CONNECTION SOCIAL NETWORK 
 **POSITION**: DEVOPS ENGINEER   
 **WEBSITE**: https://joco.asia/  
 **ANDROID**: https://play.google.com/store/apps/details?id=vn.tintech.joco   
