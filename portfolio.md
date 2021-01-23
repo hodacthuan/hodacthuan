@@ -53,7 +53,7 @@ A mobile application used for those who want to manage their ETH cryptocurrency 
 - Work closely with the front-end mobile team to develop a system push notification using Firebase Cloud Message.
 - Design and deploy the whole project on AWS Cloud and company local server.
 
-## PROJECT: JOB CONNECTION SOCIAL NETWORK
+## PROJECT: JOB CONNECTION SOCIAL NETWORK [1/2019 - 12/2019]
 **POSITION**: DEVOPS ENGINEER   
 **WEBSITE**: https://joco.asia/  
 **ANDROID**: https://play.google.com/store/apps/details?id=vn.tintech.joco   
@@ -103,3 +103,36 @@ It come with a frontend small page help you to update candidate infomation so yo
 Backend Developer: 
 - Build from scratch a system automatically crawl data( job, candidate, company) from some human resource page in VN( like Mywork, Careerbuilder, Vietnamwork,...) and then save them to MongoDB
 
+# INTEL PRODUCT VIETNAM 				      - [1/2017 - 1/2019]
+
+Intel factories have a large number of production lines, each one has a ton of machines, there is a big database system to track all product information by each machine.   
+We are a team of ~20 members across all Intel Factories in the world dedicated to building any web systems visualizing data to serve the requirements of the process engineer of Intel. We help them to analyze and make decisions to improve the process of the production line based on the systems we develop.  
+
+**Technologies:**	
+- Backend: Nodejs [ExpressJS, SocketIO], PHP, Python [Pandas], SQL Server, AWS.  
+- Frontend: HTML, CSS, Bootstrap, Javascript, JQuery,   
+- Data Visualization: AmChart, C3 Chart, HighChart, Table Sorter, PivotMaster, Table Sorter  
+
+
+<img src="./images/hr-crawl-tool.png" alt="drawing" width="1000"/>
+
+## PROJECT: MAINTENANCE AND CONTINUOUS DEVELOPING DATA PORTAL WEBSITE
+**Position:**  Fullstack Web Developer. / Team size: 5 members   
+**Key Responsibilities and Achievement:**   
+- Achieved 100% reliability and perform maintaining the data portal website to serve over 2200 employees in Intel Vietnam Factory, create 6 new features based on process engineer requirements [collect and visualize data]  
+- Develop new PHP backend application in a microservice system to the server a new function on the existing website  
+- Edit and optimize frontend Javascript core coding to add more features based on requirements, worked with Jquery, Bootstrap.  
+## PROJECT: DATA MANAGEMENT SYSTEM AND CALCULATION WEBSITE
+**Position:**  Fullstack Web Developer. / Team size: 2 members  
+**Key Responsibilities and Achievement:** 
+- Build a SQL Server database model to represent the requirements of the project.
+- Develop server architecture for the backend system using NodeJs [SocketIO, Express JS]
+- Build from scratch and deliver a website for monitoring tool health and important indicator, show data using Javascript data visualization libraries and platform [PivotMaster, AmChart] and framework ReactJS
+- Coded python automatically gets data from a log file on 20 machines then performs analysis, then saves it to databases for visualization.
+## PROJECT: DATA VISUALIZATION WEB APPLICATION
+**Position:**  Fullstack Web Developer. / Team size: only me.  
+**Key Responsibilities and Achievement:**
+- Build from scratch a PHP backend system to serve multiple data visualization web application  
+- Deliver total 3 data visualization websites for monitoring tool health and important indicator, show data using Javascript data visualization libraries and open sources [PivotMaster, AmChart]  
+- Edit and modify open-source library PivotMaster then applied to data visualized web application.  
+- Build a Server database synchronize data from >30 machines and deliver a website to help 50 users monitor those data.  
