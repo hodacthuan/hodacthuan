@@ -119,6 +119,7 @@ We are a team of ~20 members across all Intel Factories in the world dedicated t
 | ------------- | -------------   |
 | <img src="./images/intel/shift-report.png" alt="drawing" width="600"/>       | <img src="./images/intel/shift-report2.png" alt="drawing" width="600"/> |
 | <img src="./images/intel/shift-report3.png" alt="drawing" width="600"/>       | <img src="./images/intel/pcs-data.png" alt="drawing" width="600"/> |
+
 **Position:**  Fullstack Web Developer. / Team size: 5 members   
 **Key Responsibilities and Achievement:**   
 - Achieved 100% reliability and perform maintaining the data portal website to serve over 2200 employees in Intel Vietnam Factory, create 6 new features based on process engineer requirements [collect and visualize data]  
@@ -140,6 +141,7 @@ We are a team of ~20 members across all Intel Factories in the world dedicated t
 |            |            |
 | ------------- | -------------   |
 | <img src="./images/intel/epoxy.png" alt="drawing" width="600"/>       | <img src="./images/intel/wirebond.png" alt="drawing" width="600"/> |
+
 **Position:**  Fullstack Web Developer. / Team size: only me.  
 **Key Responsibilities and Achievement:**
 - Build from scratch a PHP backend system to serve multiple data visualization web application  
