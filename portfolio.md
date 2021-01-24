@@ -5,6 +5,7 @@
 **API**: https://onlinehelp.opswat.com/mdcloud/4.html  
 
 A large-scale API system for scanning, building the #1 cloud cybersecurity platform in the world, millions of users, terabytes of data, and 99.99% uptime.
+
 <img src="./images/mdcloud2.png" alt="drawing" width="1000"/>
 <img src="./images/mdcloud.png" alt="drawing" width="1000"/>
 
@@ -58,7 +59,6 @@ A mobile application used for those who want to manage their ETH cryptocurrency 
 **WEBSITE**: https://joco.asia/  
 **ANDROID**: https://play.google.com/store/apps/details?id=vn.tintech.joco   
 
-A mobile application used for those who want to manage their ETH cryptocurrency in ETH wallet: send and receive ETH/Token, Perform swap between ETH and token, …
 
 <img src="./images/joco1.png" alt="drawing" width="1000"/>
 <img src="./images/joco3.png" alt="drawing" width="1000"/>
